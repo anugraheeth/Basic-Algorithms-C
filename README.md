@@ -1,4 +1,4 @@
-Here’s a comprehensive `README.md` file containing explanations and algorithms for all major searching and sorting algorithms in C.
+# All major searching and sorting algorithms in C.
 
 ---
 
